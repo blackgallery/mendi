@@ -1,0 +1,832 @@
+/*          Responsive styles
+================================================== */
+
+@media only screen and (min-width: 1678px) and (max-width: 1923px) {
+
+
+	/*--------------------------------------
+		Home Page 2
+----------------------------------------*/
+
+.slider-area.slider-area-two .big-title {
+    margin-top: 10px;
+    padding-left: 163px;
+    padding-right: 260px;
+}
+.slider-area.slider-area-two .slider-1 .button {
+    margin-top: 30px;
+    padding-left: 173px;
+    text-align: left;
+    padding-right: 260px;
+}
+.slider-area.slider-area-two .small-content {
+    padding-left: 164px;
+    padding-right: 738px;
+    margin-top: -46px;
+}
+
+.manimenu {
+    padding: 15px 370px;
+}
+}
+
+@media only screen and (min-width: 1198px) and (max-width: 1677px) {
+
+
+/*--------------------------------------
+		Home Page 2
+----------------------------------------*/
+
+ 
+.slider-area.slider-area-two .slider-1 .button {
+    margin-top: 60px;
+}
+.slider-area.slider-area-two .small-content {
+    padding-right: 380px;
+}	
+
+.manimenu a {
+    padding: 30px 11px;
+}
+	.onepage_slider .button {
+		top: 64%;
+	}
+}
+
+/*                     Tablet Landscape
+=======================================================================================*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /*--------------------------------------
+	 Navigation Section                    
+----------------------------------------*/
+    
+    #navigation > ul > li > a {
+        padding: 30px 12px;
+    }
+    .social-nav {
+        display: none;
+    }
+    .navbar_text {
+        display: none;
+    }
+    /*--------------------------------------
+	About Section                      
+----------------------------------------*/
+    
+    .about_process .col-sm-4 {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .about_process .col-lg-6 {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .about_process .proces {
+        border-right: 1px solid transparent;
+    }
+    .about_desc h3 {
+        font-size: 33px;
+    }
+    /*--------------------------------------
+   Call To Action Section         
+----------------------------------------*/
+    
+    .calltoaction .widget-content {
+        text-align: center;
+    }
+    .callto-icon {
+        float: none;
+        position: relative;
+        top: -20px;
+    }
+    .callto-link .more-link {
+        margin-top: 20px;
+    }
+    /*--------------------------------------
+  Pricing Section 
+----------------------------------------*/
+    
+    .pricing-box .more-link {
+        font-size: 14px;
+        padding: 12px 40px 13px 10px;
+    }
+    /*--------------------------------------
+  Gallery Section 
+----------------------------------------*/
+    
+    .gallery_more {
+        padding-bottom: 95px;
+    }
+    .work-section .base-header {
+        margin-top: -26px;
+        padding-bottom: 0px;
+    }
+    .work-section .more-link {
+        margin-top: -12px;
+    }
+    .mask2 {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .mask2 h3 {
+        margin-bottom: 25px;
+    }
+    .mask2 .info2 {
+        float: none;
+        top: 0px;
+    }
+    /*--------------------------------------
+    Footer Section      
+----------------------------------------*/
+    
+    .subfooter {
+        /*! padding: 30px 0px 10px 25px; */
+    }
+	
+	/*--------------------------------------
+		Home Page 2
+----------------------------------------*/
+	.slider-area.slider-area-two .big-title {
+		margin-top: 10px;
+		letter-spacing: 3px;
+		padding-left: 129px;
+		text-align: left;
+		font-size: 60px;
+	}
+	.slider-area.slider-area-two .slider-1 .button {
+		margin-top: 70px;
+		padding-left: 139px;
+		text-align: left;
+		padding-right: 260px;
+	}
+	.slider-area.slider-area-two .small-content {
+		padding-left: 129px;
+		text-align: left;
+		padding-right: 260px;
+		letter-spacing: 2px;
+		margin-top: -40px;
+		font-size: 18px;
+	}
+	
+	.onepage_slider .button {
+		top: 64%;
+	}
+}
+/*                      Tablet Portrait
+=======================================================================================*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /*--------------------------------------
+     Navigation Section 
+----------------------------------------*/
+    
+    .need-block {
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+    .social-nav {
+        display: none;
+    }
+    .navbar_text {
+        display: none;
+    }
+    .navbar {
+        letter-spacing: 0px;
+    }
+    .manimenu a {
+        padding: 30px 10px;
+    }
+    .manimenu.top-nav-collapse {
+        padding: 8px 0px;
+    }
+    .manimenu {
+        padding: 15px 4px;
+    }
+    /*--------------------------------------
+    Slider Section  
+----------------------------------------*/
+    
+    .slider-area .small-content {
+        padding: 40px 100px;
+        margin-top: -40px;
+        letter-spacing: 6px;
+    }
+    .slider-area .big-title {
+        font-size: 43px;
+        margin-top: -50px;
+    }
+    .slider-area .button {
+        top: 67%;
+    }
+	
+	.onepage_slider_v2 .big-title {
+		font-size: 35px;
+		margin-top: 56px !important;
+	}
+	.onepage_slider .big-title {
+		margin-top: -30px;
+	}
+	.onepage_slider .big-title span {
+		font-size: 37px;
+		margin-top: -11px;
+	}
+	.onepage_slider .button {
+		top: 72%;
+	}
+
+    /*--------------------------------------
+    About Section  
+----------------------------------------*/
+    
+    .about_desc {
+        padding-top: 60px;
+    }
+    /*--------------------------------------
+    Services Section    
+----------------------------------------*/
+    
+    .services-box-2 h4 {
+        font-size: 17px;
+    }
+    .services-box-2 .subtext {
+        font-size: 13px;
+        letter-spacing: 1px;
+        display: block;
+        overflow: hidden;
+    }
+    .services-box-2 .number {
+        font-size: 35px;
+        margin-right: 15px;
+    }
+    /*--------------------------------------
+    Call To Action Section      
+----------------------------------------*/
+    
+    .calltoaction .widget-content {
+        text-align: center;
+    }
+    .callto-icon {
+        float: none;
+        position: relative;
+        top: -20px;
+    }
+    .callto-link .more-link {
+        margin-top: 20px;
+    }
+    .callto-text h4 {
+        font-size: 25px;
+        letter-spacing: 5px;
+    }
+    /*--------------------------------------
+  Pricing Section 
+----------------------------------------*/
+    
+    .pricing-box h2 {
+        font-size: 40px;
+    }
+    .pricing-box {
+        padding: 40px 10px 10px 10px;
+    }
+    .pricing-box p {
+        font-size: 12px;
+        letter-spacing: 0px;
+        margin-bottom: 15px;
+    }
+    .pricing-box .more-link {
+        font-size: 15px;
+        padding: 12px 40px 11px 10px;
+    }
+    /*--------------------------------------
+  Gallery Section 
+----------------------------------------*/
+    
+    .mask2 {
+        padding-top: 16px;
+    }
+    .gallery_more {
+        padding-bottom: 90px;
+        padding-top: 70px;
+    }
+    .work-section .base-header {
+        margin-top: 46px;
+    }
+    /*--------------------------------------
+  Team Section 
+----------------------------------------*/
+    
+    .team-section {
+        padding-bottom: 100px;
+    }
+    .member .info h6 {
+        letter-spacing: 0px;
+        font-size: 15px;
+    }
+    .member .info {
+        padding: 0px 11px 0px;
+    }
+    .member {
+        padding: 0px 0px;
+    }
+    /*--------------------------------------
+    Blog Section 
+----------------------------------------*/
+    
+    .blog-warp-1 a {
+        font-size: 16px;
+    }
+    .blog-warp-1 img {
+        width: 100px;
+        height: 100px;
+        margin-right: 25px;
+    }
+    .blog-warp-1 {
+        margin-bottom: 40px;
+    }
+    /*--------------------------------------
+    Footer Section 
+----------------------------------------*/
+    
+    .footer-section .subfooter .col-md-6,
+    .footer-section .subfooter .col-md-6 {
+        width: 50% !important;
+    }
+    .widget_mailchimp #mc-embedded-subscribe {
+        letter-spacing: 0px;
+        font-size: 13px;
+    }
+    /*--------------------------------------
+    About Page 
+----------------------------------------*/
+    
+    .about-left h3 {
+        font-size: 32px;
+    }
+    .about-right img {
+        margin-top: 155px;
+    }
+	
+	/*--------------------------------------
+		Home Page 2
+----------------------------------------*/
+	.slider-area.slider-area-two .big-title {
+		text-align: center;
+		padding-left: 0px;
+		margin-top: 10px;
+	}
+	.slider-area.slider-area-two .slider-1 .button {
+		text-align: center;
+		padding-left: 0px;
+		margin-top: 0px;
+	}
+	.slider-area.slider-area-two .small-content {
+		display: none;
+	}
+}
+/*                          Phone
+=======================================================================================*/
+
+@media only screen and (max-width: 767px) {
+    /*--------------------------------------
+   Header Section     
+----------------------------------------*/
+    
+    .header .col-lg-offset-1.col-lg-8.col-sm-10.col-xs-12 {
+        display: none;
+    }
+    #navigation.small-screen {
+        margin-top: -53px;
+    }
+    #navigation.small-screen #menu-button {
+        padding: 33px;
+    }
+    #navigation > ul > li > a {
+        padding: 16px 20px;
+    }
+    #navigation.small-screen #menu-button::before {
+        background: #fff;
+    }
+    #navigation.small-screen #menu-button::after {
+        border-top: 2px solid #fff;
+        border-bottom: 2px solid #fff;
+    }
+    .header {
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    .social-nav {
+        display: none;
+    }
+    .nivo-caption {
+        display: none !important;
+    }
+    .nivo-directionNav a {
+        top: 44%;
+    }
+    .navbar_text {
+        display: none;
+    }
+    .manimenu .navbar-brand > img {
+        margin-top: -12px;
+        padding-left: 10px;
+    }
+    .navbar-toggle {
+        margin-top: 14px;
+        border-color: #000 !important;
+    }
+    .manimenu {
+        background: transparent;
+        -webkit-transform: translateX(0px) translateY(10px) translateZ(0px) rotate(0deg) scale(0.95);
+        -moz-transform: translateX(0px) translateY(10px) translateZ(0px) rotate(0deg) scale(0.95);
+        -ms-transform: translateX(0px) translateY(10px) translateZ(0px) rotate(0deg) scale(0.95);
+        -o-transform: translateX(0px) translateY(10px) translateZ(0px) rotate(0deg) scale(0.95);
+        transform: translateX(0px) translateY(0px) translateZ(0px) rotate(0deg) scale(0.95);
+        padding: 0px 0px;
+    }
+    .manimenu.top-nav-collapse {
+        background: #fff;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #000;
+    }
+    .manimenu ul > li {
+        display: block;
+        width: 100%;
+    }
+    .manimenu ul a {
+        padding: 10px 20px;
+    }
+    .manimenu ul {
+        margin-left: 0px !important;
+    }
+    .manimenu li ul {
+        top: 35px;
+    }
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: transparent !important;
+        background: #fff;
+    }
+    header.blog-banner {
+        height: 470px;
+    }
+/*
+    Video Background
+----------------------------------------*/
+	.video-header h2 {
+		line-height: 43px;
+	}
+	.ban1_txt h3 {
+		line-height: 26px;
+	}
+	
+    /*--------------------------------------
+    About Section 
+----------------------------------------*/
+    
+    .about_desc h3 {
+        line-height: 41px;
+        margin-top: 0px;
+    }
+    .about_desc h4 {
+        line-height: 40px;
+        margin-top: -30px;
+    }
+    .about_desc img {
+        margin-top: 20px;
+    }
+    /*--------------------------------------
+    Service Section 
+----------------------------------------*/
+    
+    .feature-section {
+        padding-bottom: 70px;
+    }
+    .services-box-2 {
+        padding-bottom: 0px;
+        margin-bottom: 30px;
+    }
+    .services-box-2 .subtext {
+        margin-bottom: 30px;
+    }
+    .service-section {
+        padding-bottom: 45px;
+    }
+    .services-box-2 .number {
+        margin-right: 36px;
+        padding-left: 8px;
+    }
+    /*--------------------------------------
+  Call To Action Section 
+----------------------------------------*/
+    
+    .callto-link {
+        text-align: center;
+    }
+    .calltoaction .widget-content {
+        text-align: center;
+    }
+    .callto-icon {
+        margin-right: 0px;
+    }
+    .callto-icon {
+        float: none;
+        position: relative;
+        top: -20px;
+    }
+    .callto-link .more-link {
+        margin-top: 20px;
+    }
+    .callto-text h4 {
+        font-size: 24px;
+        letter-spacing: 1px;
+        line-height: 30px;
+    }
+    /*--------------------------------------
+    Pricing Section 
+----------------------------------------*/
+    
+    .pricing-section {
+        margin-bottom: -30px;
+    }
+    .pricing-section .col-sm-3 {
+        padding-left: 0px;
+        margin-bottom: 30px;
+    }
+    /*--------------------------------------
+    Team Section 
+----------------------------------------*/
+    
+    .team-section {
+        padding-bottom: 70px;
+    }
+    .member {
+        margin-bottom: 30px;
+    }
+    /*--------------------------------------
+  Testimonial  Section 
+----------------------------------------*/
+    
+    #quote-carousel .carousel-indicators {
+        bottom: -88px;
+        width: 95%;
+        margin-left: -47%;
+    }
+    /*--------------------------------------
+    Blog Section 
+----------------------------------------*/
+    
+    .blog-warp-1 img {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 25px;
+    }
+    .blog-warp-1 {
+        margin-bottom: 30px;
+    }
+    /*--------------------------------------
+    Footer Section 
+----------------------------------------*/
+    
+    .footer-section {
+        padding-top: 76px;
+        padding-bottom: 86px;
+    }
+    .footer-section .widget h5 {
+        margin-bottom: 20px;
+    }
+    .footer-links a {
+        float: left;
+        margin: 0px 12px;
+    }
+    .footer-section .col-md-4,
+    .footer-section .col-md-2,
+    .footer-section .col-md-3 {
+        text-align: center;
+    }
+    .footer-section .widget p {
+        padding-right: 0px;
+    }
+    .footer-section .subfooter .col-md-6,
+    .footer-section .subfooter .col-md-6 {
+        width: 100% !important;
+    }
+    .subfooter {
+        padding: 10px 23px 10px 24px;
+    }
+    .scrollup {
+        float: none;
+    }
+    .subfooter p {
+        float: none;
+    }
+    .widget {
+        margin-bottom: 50px;
+    }
+    .footer-section .widget {
+        padding-bottom: 0px;
+        margin-bottom: 30px;
+    }
+    .footer-section .contact_info {
+        margin-top: 15px;
+    }
+    /*--------------------------------------
+    Blog Page 
+----------------------------------------*/
+    
+    header .container {
+        padding-top: 158px;
+    }
+    .blog-header {
+        padding-left: 0px;
+    }
+    .blog-header h3 {
+        line-height: 40px;
+    }
+    .instagram-photo-list li {
+        width: 25%;
+    }
+    .widget-area {
+        /*! padding-top: 0px; */
+    }
+    .blog-area {
+        padding-left: 15px;
+        padding-top: 50px;
+    }
+    .blog-area .pagination {
+        margin-bottom: 40px;
+        margin-top: -14px;
+    }
+    /*--------------------------------------
+    About Page 
+----------------------------------------*/
+    
+    .about-left h3 {
+        font-size: 32px;
+    }
+    .about-right img {
+        margin-top: 34px;
+        width: 100%;
+    }
+    /*--------------------------------------
+    Contact Page 
+----------------------------------------*/
+    
+    .contact-form-warper {
+        width: 100%;
+    }
+    .contact-info {
+        width: 100%;
+        padding-left: 30px;
+        margin-top: 30px;
+    }
+    .submit-button {
+        margin-left: 0px;
+    }
+    /*--------------------------------------
+    Single Gallery Page 
+----------------------------------------*/
+    .related-portfolio .col-xs-12 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .portfolio-single-detail {
+        padding-left: 0px;
+    }
+	.work-section .more-link {
+		margin-bottom: 20px;
+    }
+    /*================================
+    Home Page Two 
+===================================*/
+    
+    .achieve-section {
+        padding-top: 0px;
+    }
+    .achieve-section .col-sm-3 {
+        width: 50%;
+        padding-right: 0px;
+        padding-left: 0px;
+        float: left;
+    }
+    .count-info {
+        margin-bottom: 30px;
+    }
+    .count-info .text {
+        font-size: 15px;
+    }
+}
+/* Mobile Vertical Layout: 488px 
+===============================================================================*/
+
+@media only screen and (min-width: 488px) and (max-width: 767px) {
+    /*--------------------------------------
+    About Section 
+----------------------------------------*/
+    
+    .about-section .col-xs-12 {
+        width: 50%;
+    }
+    /*--------------------------------------
+    Service Section 
+----------------------------------------*/
+    
+    .service-section .col-xs-12 {
+        width: 50%;
+    }
+    /*--------------------------------------
+    Pricing Section 
+----------------------------------------*/
+    
+    .pricing-section .col-xs-12 {
+        width: 50%;
+        margin-bottom: 0px;
+        padding: 1px;
+    }
+    .pricing-box .more-link {
+        font-size: 14px;
+        padding: 12px 47px 13px 9px;
+    }
+    /*--------------------------------------
+    Work Section 
+----------------------------------------*/
+    
+    .project-list .col-xs-12.mix:first-child {
+        width: 100%;
+    }
+    .project-list .col-xs-12.mix {
+        width: 50%;
+    }
+    .work-section .base-header {
+        margin-top: -28px;
+    }
+    .work-section .more-link {
+        margin-top: -12px;
+        padding: 10px 40px 10px 14px;
+    }
+    .mask2 {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .mask2 h3 {
+        margin-bottom: 25px;
+    }
+    .mask2 .info2 {
+        float: none;
+        top: 0px;
+    }
+    /*--------------------------------------
+    Team Section 
+----------------------------------------*/
+    
+    .team-section .col-xs-12 {
+        width: 50%;
+    }
+    /*--------------------------------------
+    Blog Section 
+----------------------------------------*/
+    
+    .blog-section .col-xs-12 {
+        width: 50%;
+    }
+    .blog-warp-1 a {
+        letter-spacing: 0px;
+    }
+    /*--------------------------------------
+    Footer Section 
+----------------------------------------*/
+    
+    .footer-section .row .col-xs-12 {
+        width: 50%;
+    }
+    .footer-section .widget p {
+        margin-top: 0px;
+    }
+    .footer-section .recent-post li a {
+        font-size: 14px;
+    }
+    .subfooter {
+        position: relative;
+        top: 20px;
+    }
+    .widget {
+        /*! margin-bottom: -27px; */
+    }
+    .footer-section .contact_info {
+        margin-top: -20px;
+        position: relative;
+        top: 18px;
+    }
+    .footer-section .contact_info ul li p {
+        margin-top: -11px;
+    }
+    /*--------------------------------------
+    Single Gallery Page 
+----------------------------------------*/
+    
+    .related-portfolio .col-xs-12 {
+        padding-right: 0px;
+        padding-left: 0px;
+        width: 50%;
+    }
+}
